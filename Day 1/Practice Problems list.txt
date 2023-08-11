@@ -1,0 +1,36 @@
+1 Addition of two numnbers
+2 Find the square root of the number
+3 Find the area of the triangle
+4 Solve the quadratic equation
+5 Swapping two variable
+6 Temperature celsius to farheheite
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+1. Find the maximum of a list of numbers.
+2. Python program that accepts a string and calculate the number of
+digits and letters.
+3. Python program to iterate over dictionaries using for loops.
+4. Python function to check whether a number is perfect or not.
+5. Python function to calculate the factorial of a number (a non-negative
+integer).
+6. Python program to solve the Fibonacci sequence using recursion.
+7. Find the most frequent words in a text read from a file.
+8. Given a pair of positive integers a and b (a < b; 0 < m < 9; 1 < n < =
+10), write a program to smartly affix zeroes, while printing the numbers
+from a to b.
+9. Harry went to a movie with his friends in a and during break time he
+bought pizzas, puffs and cool drinks. Consider the following prices :
+Rs.100/pizza
+Rs.20/puffs
+Rs.10/cooldrink
+Generate a bill for What Harry has bought.
+10. Rajesh wants to design a board, which displays a character for a
+corresponding number for his science project. For example, when the
+digits 65,66,67,68 are entered, the alphabet ABCD are to be
+displayed.Help him to develop such an application.
+11. Akash planned to choose a four digit lucky number for his car. His
+lucky numbers are 3,5 and 7. Help him find the number, whose sum is
+divisible by 3 or 5 or 7. Provide a valid car number, Fails to provide a
+valid input then display that number is not a valid car number.
+12. Raj wants to know the maximum marks scored by him in eachsemester. He has completed 3 semesters (5 subjects in each
+semester).The mark should be between 0 to 100 ,if goes beyond the
+range display “You have entered invalid mark.”
